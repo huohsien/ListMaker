@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Counter</string>
+    <string name="yourScore">Game Score: %1$d</string>
+    <string name="timeLeft">Time Left: %1$d</string>
+    <string name="tapMe">Tap Me!</string>
+    <string name="gameOver">Time is up! Your Score was: %1$d</string>
+</resources>
